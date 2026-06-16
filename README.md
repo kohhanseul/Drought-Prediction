@@ -76,5 +76,5 @@
 ```bash
 pip install -r requirements.txt
 # notebooks/ 폴더의 노트북을 번호 순서대로 실행
-# 데이터는 data/광동댐_data.csv 사용
+# 데이터는 data/광동댐_최종_VIF.csv 사용
 ```
